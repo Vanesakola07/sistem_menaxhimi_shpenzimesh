@@ -1,0 +1,5 @@
+﻿shpenzime.exe
+shpenzime
+*.o
+*.obj
+.vscode/
