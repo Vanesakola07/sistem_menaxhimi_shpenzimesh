@@ -161,7 +161,7 @@ Recommended files to commit:
 
 - Source files: `*.c`, `*.h`
 - `Makefile`
-- `Readme`
+- `README.md`
 - Font/assets used by the app
 - Small sample data files, if you want the app to open with demo data
 
