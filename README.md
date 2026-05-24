@@ -1,0 +1,1 @@
+# sistem_menaxhimi_shpenzimesh
